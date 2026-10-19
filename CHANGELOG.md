@@ -1,3 +1,14 @@
+## v0.2.0 — 2026-10-19
+
+Fontastic 0.2.0
+- Colleagues through the office server: "Share my fonts with the office", Ask colleagues in search, and Get, which brings a colleague's font through the organisation library. Needs an office build of the app and the office server 0.3.0; until then it stays inactive.
+- The organisation library downloads to this Mac: progress, pause, download all, and Get, in Locations.
+- The LAN peer search ("Ask peers", mDNS) is retired: Macs no longer talk to each other directly.
+- Launch: the splash never leaves the app without a window, and an update found at launch is waited for, not cut short.
+- The server's state shows in the header; account checks no longer hang on Connecting.
+- Many fixes to adding folders to the organisation library.
+
+
 ## v0.1.2 — 2026-09-03
 
 Release v0.1.2
